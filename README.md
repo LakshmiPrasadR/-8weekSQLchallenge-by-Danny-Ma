@@ -1,1 +1,1 @@
-# -8weekSQLchallenge-by-Danny-Ma
+# -8weekSQLchallenge by Danny Ma
